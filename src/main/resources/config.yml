@@ -1,0 +1,6 @@
+Title: "你的屏蔽列表 第%p页"
+Name: "&f{player}"
+Lore:
+  - " &f支持 PlaceholderAPI 变量"
+  - " &e> &f左键取消屏蔽"
+Material: PLAYER_HEAD

@@ -1,0 +1,5 @@
+unknown-player: "&r[ &e屏蔽玩家 &r] &c玩家 {0} 不在线或是不存在!"
+player-exist: "&r[ &e屏蔽玩家 &r] &c玩家 {0} 已经被你屏蔽了!"
+success: "&r[ &e屏蔽玩家 &r] &a已屏蔽玩家 {0}."
+remove-success: "&r[ &e屏蔽玩家 &r] &a已取消屏蔽玩家 {0}."
+self: "&r[ &e屏蔽玩家 &r] &c你不可以屏蔽自己!"
